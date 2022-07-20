@@ -3,7 +3,7 @@ This repo contains all the data of my attempts to hte Udacity Data Science Nanod
 
 
 In this repository, There are 3 main Folders. 
-1. Concept progress
+1. Concept progress and corresponding notes.
 2. Solutions to the files in folder 1
 3. Projects
 
