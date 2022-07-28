@@ -32,7 +32,7 @@ The code uses the following python modules,
 
 ---
 ## Results
-The main findings and the process is detailed in an article on medium. The article can be found [here]()
+The main findings and the process is detailed in an article on medium. The article can be found [here](https://akhiltvsn.medium.com/investigating-the-seattle-airbnb-dataset-dd564fa30ab8)
 
 
 ---
