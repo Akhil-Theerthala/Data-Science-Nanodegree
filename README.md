@@ -36,5 +36,10 @@ The main findings and the process is detailed in an article on medium. The artic
 
 
 ---
-### P.S. The plotly visualizations are currently not supported to be viewed on GitHub, hence the entire notebook with the complete visualizaitons can be viewed at this [link](https://nbviewer.org/github/Akhil-Theerthala/Seattle-Airbnb-Analysis/blob/main/analysis.ipynb) 
 
+P.S. The plotly visualizations are currently not supported to be viewed on GitHub, hence the entire notebook with the complete visualizaitons can be viewed at this [link](https://nbviewer.org/github/Akhil-Theerthala/Seattle-Airbnb-Analysis/blob/main/analysis.ipynb) 
+
+---
+## Licensing, Authors, Acknowledgements
+
+Credit to Airbnb for providing the data. Licensing information can be found at the [Kaggle page](https://www.kaggle.com/datasets/airbnb/seattle) and the original source from [Airbnb Inside](http://insideairbnb.com/get-the-data/)
