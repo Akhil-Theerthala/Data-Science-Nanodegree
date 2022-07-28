@@ -37,7 +37,7 @@ The main findings and the process is detailed in an article on medium. The artic
 
 ---
 
-P.S. The plotly visualizations are currently not supported to be viewed on GitHub, hence the entire notebook with the complete visualizaitons can be viewed at this [link](https://nbviewer.org/github/Akhil-Theerthala/Seattle-Airbnb-Analysis/blob/main/analysis.ipynb) 
+P.S. The plotly visualizations are currently not cannot be viewed on Github, hence the entire notebook with the complete visualizaitons can be viewed at this [link](https://nbviewer.org/github/Akhil-Theerthala/Seattle-Airbnb-Analysis/blob/main/analysis.ipynb) 
 
 ---
 ## Licensing, Authors, Acknowledgements
